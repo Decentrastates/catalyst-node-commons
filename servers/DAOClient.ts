@@ -1,4 +1,4 @@
-import { CatalystData, CatalystId, DAOContract } from '@dcl/catalyst-contracts'
+import { CatalystData, CatalystId, DAOContract } from 'dcs-catalyst-contracts'
 import { ServerMetadata } from './ServerMetadata'
 
 export interface DAOClient {
