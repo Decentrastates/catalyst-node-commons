@@ -1,7 +1,7 @@
 {
-  "name": "@dcl/catalyst-node-commons",
+  "name": "dcs-catalyst-node-commons",
   "description": "Commons",
-  "version": "0.1.0",
+  "version": "1.0.4-ftc",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "author": "Decentraland Contributors",
