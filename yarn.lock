@@ -2271,10 +2271,10 @@ dcl-crypto@2.3.0:
     eth-crypto "^1.5.1"
     web3x "^4.0.6"
 
-dcs-catalyst-contracts@^1.0.2-ftc-1:
-  version "1.0.2-ftc-1"
-  resolved "https://registry.npmjs.org/dcs-catalyst-contracts/-/dcs-catalyst-contracts-1.0.2-ftc-1.tgz#34a6459a7d985ff16ce85e06ead7babc8cdb8b40"
-  integrity sha512-8WaFn46fIU8MVibSv8y3Qy4m+ISKP0q59n6CfVr6qvql9f6QJzGazvZbJ1ai60Ev8oXb7oEuRkc4t4tBxY4jMg==
+dcs-catalyst-contracts@^1.0.2-ftc-3:
+  version "1.0.2-ftc-3"
+  resolved "https://registry.npmjs.org/dcs-catalyst-contracts/-/dcs-catalyst-contracts-1.0.2-ftc-3.tgz#eb7e8ddb9a87d539efe81f88aa27a5992f289bf7"
+  integrity sha512-b12Tx6pynj0IRplEDOass5Ow1MQ8ubmGYgyhGmh37gSZl0yIvZHl5EOuEDmBGw14ujwMcmLreA3yFE1GFQEQdw==
   dependencies:
     bn.js "5.2.0"
     dcl-crypto "2.3.0"
